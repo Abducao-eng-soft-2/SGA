@@ -2,8 +2,6 @@
 
 # 👽 ABUZ.AI GSA — Sistema de Gestão de Abduções
 
-> **Projeto acadêmico de Tecnologia da Informação — Planejamento Ágil com apoio de Inteligência Artificial**
-
 ## 📌 1. Sobre o Projeto
 
 O **ABUZ.AI GSA (Sistema de Gestão de Abduções)** é um projeto acadêmico que tem como objetivo centralizar e organizar o planejamento, a autorização, a execução e o histórico de missões de abdução alienígena.
