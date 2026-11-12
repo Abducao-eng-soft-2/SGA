@@ -92,6 +92,7 @@ branches de trabalho
   └── feature/US-003-composicao-equipe
 
   ---
+```
 
 ## 🎨 4. Prototipação do Sistema
 
@@ -256,7 +257,5 @@ O protótipo servirá como referência para a validação dos requisitos e para 
 | Associação definitiva com as Issues do GitHub | Pendente |
 
 **Importante:** a prototipação não representa o início automático da implementação do sistema. Seu objetivo é validar visualmente as funcionalidades antes do desenvolvimento técnico.
-
-Link:
 
 ---
